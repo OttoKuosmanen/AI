@@ -1,1 +1,1 @@
-key = "Add your key here": FROm openAIwebsite
+key = "Add your key here":
