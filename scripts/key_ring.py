@@ -1,1 +1,1 @@
-key = "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"
+key = "Add your key here": FROm openAIwebsite
